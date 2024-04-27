@@ -1,0 +1,21 @@
+body{
+    
+    background-color: rgb(141, 93, 93);
+    h1 {color: rgb(12, 12, 29);
+    font-size: 1cm ;
+font-style: italic;}
+    p{ font-style: italic;
+    color: rgb(0, 0, 0);
+    font-size: 1cm;}
+    a{font-style: italic;
+    font-size: 6mm;}
+    
+}
+video{
+    width: 66%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
